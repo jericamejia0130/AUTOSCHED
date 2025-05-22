@@ -1,0 +1,371 @@
+2025-05-17 04:50:34 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"11","year_level_shs":"11","name":"A","year_level":"11"}
+SQL Query: INSERT INTO sections SET `name` = 'A', `year_level` = '11', `strand_id` = '11', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 04:51:09 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"3","year_level_shs":"12","name":"A","year_level":"12"}
+SQL Query: INSERT INTO sections SET `name` = 'A', `year_level` = '12', `strand_id` = '3', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 04:57:03 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"11","year_level_shs":"11","name":"A","year_level":"11"}
+SQL Query: INSERT INTO sections SET `name` = 'A', `year_level` = '11', `strand_id` = '11', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 05:01:18 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"A","year_level":"11"}
+SQL Query: INSERT INTO sections SET `name` = 'A', `year_level` = '11', `strand_id` = '12', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 05:03:06 - save_section called
+POST data: {"id":"23","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"B","year_level":"11"}
+SQL Query: UPDATE sections SET `name` = 'B', `year_level` = '11', `strand_id` = '12', `course_id` = NULL WHERE id = '23'
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 05:07:42 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"10","year_level_shs":"11","name":"A","year_level":"11"}
+SQL Query: INSERT INTO sections SET `name` = 'A', `year_level` = '11', `strand_id` = '10', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 05:07:42 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"10","year_level_shs":"11","name":"A","year_level":"11"}
+SQL Query: INSERT INTO sections SET `name` = 'A', `year_level` = '11', `strand_id` = '10', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 05:07:42 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"10","year_level_shs":"11","name":"A","year_level":"11"}
+SQL Query: INSERT INTO sections SET `name` = 'A', `year_level` = '11', `strand_id` = '10', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 05:07:42 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"10","year_level_shs":"11","name":"A","year_level":"11"}
+SQL Query: INSERT INTO sections SET `name` = 'A', `year_level` = '11', `strand_id` = '10', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 05:07:42 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"10","year_level_shs":"11","name":"A","year_level":"11"}
+SQL Query: INSERT INTO sections SET `name` = 'A', `year_level` = '11', `strand_id` = '10', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 05:14:17 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"12","name":"A","year_level":"12"}
+SQL Query: INSERT INTO sections SET `name` = 'A', `year_level` = '12', `strand_id` = '12', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 05:14:17 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"12","name":"A","year_level":"12"}
+SQL Query: INSERT INTO sections SET `name` = 'A', `year_level` = '12', `strand_id` = '12', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 05:20:55 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"3","year_level_shs":"11","name":"A","year_level":"11"}
+SQL Query: INSERT INTO sections SET `name` = 'A', `year_level` = '11', `strand_id` = '3', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 05:20:55 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"3","year_level_shs":"11","name":"A","year_level":"11"}
+SQL Query: INSERT INTO sections SET `name` = 'A', `year_level` = '11', `strand_id` = '3', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 06:07:34 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"A","year_level":"11"}
+SQL Query: INSERT INTO sections SET `name` = 'A', `year_level` = '11', `strand_id` = '12', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 06:07:34 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"A","year_level":"11"}
+SQL Query: INSERT INTO sections SET `name` = 'A', `year_level` = '11', `strand_id` = '12', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 06:07:59 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"B","year_level":"11"}
+SQL Query: INSERT INTO sections SET `name` = 'B', `year_level` = '11', `strand_id` = '12', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 06:07:59 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"B","year_level":"11"}
+SQL Query: INSERT INTO sections SET `name` = 'B', `year_level` = '11', `strand_id` = '12', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 06:07:59 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"B","year_level":"11"}
+SQL Query: INSERT INTO sections SET `name` = 'B', `year_level` = '11', `strand_id` = '12', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 06:14:02 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"A","year_level":"11"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'A' AND year_level = '11' AND strand_id = '12'
+SQL Query: INSERT INTO sections SET `name` = 'A', `year_level` = '11', `strand_id` = '12', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 06:14:02 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"A","year_level":"11"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'A' AND year_level = '11' AND strand_id = '12'
+Error: Section name already exists for this level/department or strand
+2025-05-17 06:15:15 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"A","year_level":"11"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'A' AND year_level = '11' AND strand_id = '12'
+Error: Section name already exists for this level/department or strand
+2025-05-17 06:15:15 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"A","year_level":"11"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'A' AND year_level = '11' AND strand_id = '12'
+Error: Section name already exists for this level/department or strand
+2025-05-17 06:23:03 - save_section called
+POST data: {"id":"38","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"B","year_level":"11"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'B' AND year_level = '11' AND strand_id = '12' AND id != '38'
+Error: Section name already exists for this level/department or strand
+2025-05-17 06:23:03 - save_section called
+POST data: {"id":"38","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"B","year_level":"11"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'B' AND year_level = '11' AND strand_id = '12' AND id != '38'
+Error: Section name already exists for this level/department or strand
+2025-05-17 06:24:00 - save_section called
+POST data: {"id":"38","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"B","year_level":"11"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'B' AND year_level = '11' AND strand_id = '12' AND id != '38'
+Error: Section name already exists for this level/department or strand
+2025-05-17 06:24:00 - save_section called
+POST data: {"id":"38","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"B","year_level":"11"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'B' AND year_level = '11' AND strand_id = '12' AND id != '38'
+Error: Section name already exists for this level/department or strand
+2025-05-17 06:31:07 - save_section called
+POST data: {"id":"38","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"B","year_level":"11"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'B' AND year_level = '11' AND strand_id = '12' AND id != '38'
+Duplicate check found 1 rows
+Duplicate found - ID: 37, Name: B, Year: 11, Course ID: NULL, Strand ID: 12
+Error: Section name already exists for this level/department or strand
+2025-05-17 06:31:07 - save_section called
+POST data: {"id":"38","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"B","year_level":"11"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'B' AND year_level = '11' AND strand_id = '12' AND id != '38'
+Duplicate check found 1 rows
+Duplicate found - ID: 37, Name: B, Year: 11, Course ID: NULL, Strand ID: 12
+Error: Section name already exists for this level/department or strand
+2025-05-17 06:31:27 - save_section called
+POST data: {"id":"38","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"B","year_level":"11"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'B' AND year_level = '11' AND strand_id = '12' AND id != '38'
+Duplicate check found 1 rows
+Duplicate found - ID: 37, Name: B, Year: 11, Course ID: NULL, Strand ID: 12
+Error: Section name already exists for this level/department or strand
+2025-05-17 06:31:27 - save_section called
+POST data: {"id":"38","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"12","year_level_shs":"11","name":"B","year_level":"11"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'B' AND year_level = '11' AND strand_id = '12' AND id != '38'
+Duplicate check found 1 rows
+Duplicate found - ID: 37, Name: B, Year: 11, Course ID: NULL, Strand ID: 12
+Error: Section name already exists for this level/department or strand
+2025-05-17 19:31:05 - save_section called
+POST data: {"id":"","level_type":"College","course_id":"43","year_level_college":"1","strand_id":"","year_level_shs":"","name":"IT 102","year_level":"1"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'IT 102' AND year_level = '1' AND course_id = '43'
+Duplicate check found 0 rows
+SQL Query: INSERT INTO sections SET `name` = 'IT 102', `year_level` = '1', `course_id` = '43', `strand_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 19:31:05 - save_section called
+POST data: {"id":"","level_type":"College","course_id":"43","year_level_college":"1","strand_id":"","year_level_shs":"","name":"IT 102","year_level":"1"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'IT 102' AND year_level = '1' AND course_id = '43'
+Duplicate check found 1 rows
+Duplicate found - ID: 39, Name: IT 102, Year: 1, Course ID: 43, Strand ID: NULL
+Error: Section name already exists for this level/department or strand
+2025-05-17 19:31:05 - save_section called
+POST data: {"id":"","level_type":"College","course_id":"43","year_level_college":"1","strand_id":"","year_level_shs":"","name":"IT 102","year_level":"1"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'IT 102' AND year_level = '1' AND course_id = '43'
+Duplicate check found 1 rows
+Duplicate found - ID: 39, Name: IT 102, Year: 1, Course ID: 43, Strand ID: NULL
+Error: Section name already exists for this level/department or strand
+2025-05-17 19:31:47 - save_section called
+POST data: {"id":"","level_type":"College","course_id":"44","year_level_college":"1","strand_id":"","year_level_shs":"","name":"HRMT 101","year_level":"1"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'HRMT 101' AND year_level = '1' AND course_id = '44'
+Duplicate check found 0 rows
+SQL Query: INSERT INTO sections SET `name` = 'HRMT 101', `year_level` = '1', `course_id` = '44', `strand_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 19:31:47 - save_section called
+POST data: {"id":"","level_type":"College","course_id":"44","year_level_college":"1","strand_id":"","year_level_shs":"","name":"HRMT 101","year_level":"1"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'HRMT 101' AND year_level = '1' AND course_id = '44'
+Duplicate check found 1 rows
+Duplicate found - ID: 40, Name: HRMT 101, Year: 1, Course ID: 44, Strand ID: NULL
+Error: Section name already exists for this level/department or strand
+2025-05-17 19:32:33 - save_section called
+POST data: {"id":"","level_type":"College","course_id":"44","year_level_college":"1","strand_id":"","year_level_shs":"","name":"HRMT 201","year_level":"1"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'HRMT 201' AND year_level = '1' AND course_id = '44'
+Duplicate check found 0 rows
+SQL Query: INSERT INTO sections SET `name` = 'HRMT 201', `year_level` = '1', `course_id` = '44', `strand_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 19:32:33 - save_section called
+POST data: {"id":"","level_type":"College","course_id":"44","year_level_college":"1","strand_id":"","year_level_shs":"","name":"HRMT 201","year_level":"1"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'HRMT 201' AND year_level = '1' AND course_id = '44'
+Duplicate check found 1 rows
+Duplicate found - ID: 41, Name: HRMT 201, Year: 1, Course ID: 44, Strand ID: NULL
+Error: Section name already exists for this level/department or strand
+2025-05-17 19:32:57 - save_section called
+POST data: {"id":"","level_type":"College","course_id":"44","year_level_college":"1","strand_id":"","year_level_shs":"","name":"HRMT 301","year_level":"1"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'HRMT 301' AND year_level = '1' AND course_id = '44'
+Duplicate check found 0 rows
+SQL Query: INSERT INTO sections SET `name` = 'HRMT 301', `year_level` = '1', `course_id` = '44', `strand_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 19:32:57 - save_section called
+POST data: {"id":"","level_type":"College","course_id":"44","year_level_college":"1","strand_id":"","year_level_shs":"","name":"HRMT 301","year_level":"1"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'HRMT 301' AND year_level = '1' AND course_id = '44'
+Duplicate check found 1 rows
+Duplicate found - ID: 42, Name: HRMT 301, Year: 1, Course ID: 44, Strand ID: NULL
+Error: Section name already exists for this level/department or strand
+2025-05-17 19:35:34 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"10","year_level_shs":"11","name":"A","year_level":"11"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'A' AND year_level = '11' AND strand_id = '10'
+Duplicate check found 0 rows
+SQL Query: INSERT INTO sections SET `name` = 'A', `year_level` = '11', `strand_id` = '10', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 19:35:34 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"10","year_level_shs":"11","name":"A","year_level":"11"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'A' AND year_level = '11' AND strand_id = '10'
+Duplicate check found 1 rows
+Duplicate found - ID: 43, Name: A, Year: 11, Course ID: NULL, Strand ID: 10
+Error: Section name already exists for this level/department or strand
+2025-05-17 19:36:22 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"10","year_level_shs":"11","name":"B","year_level":"11"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'B' AND year_level = '11' AND strand_id = '10'
+Duplicate check found 0 rows
+SQL Query: INSERT INTO sections SET `name` = 'B', `year_level` = '11', `strand_id` = '10', `course_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 19:36:22 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"10","year_level_shs":"11","name":"B","year_level":"11"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'B' AND year_level = '11' AND strand_id = '10'
+Duplicate check found 1 rows
+Duplicate found - ID: 44, Name: B, Year: 11, Course ID: NULL, Strand ID: 10
+Error: Section name already exists for this level/department or strand
+2025-05-17 19:42:42 - save_section called
+POST data: {"id":"","level_type":"College","course_id":"46","year_level_college":"1","strand_id":"","year_level_shs":"","name":"CET 101","year_level":"1"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'CET 101' AND year_level = '1' AND course_id = '46'
+Duplicate check found 0 rows
+SQL Query: INSERT INTO sections SET `name` = 'CET 101', `year_level` = '1', `course_id` = '46', `strand_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 19:42:42 - save_section called
+POST data: {"id":"","level_type":"College","course_id":"46","year_level_college":"1","strand_id":"","year_level_shs":"","name":"CET 101","year_level":"1"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'CET 101' AND year_level = '1' AND course_id = '46'
+Duplicate check found 1 rows
+Duplicate found - ID: 45, Name: CET 101, Year: 1, Course ID: 46, Strand ID: NULL
+Error: Section name already exists for this level/department or strand
+2025-05-17 19:42:53 - save_section called
+POST data: {"id":"","level_type":"College","course_id":"46","year_level_college":"1","strand_id":"","year_level_shs":"","name":"CET 101","year_level":"1"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'CET 101' AND year_level = '1' AND course_id = '46'
+Duplicate check found 1 rows
+Duplicate found - ID: 45, Name: CET 101, Year: 1, Course ID: 46, Strand ID: NULL
+Error: Section name already exists for this level/department or strand
+2025-05-17 19:42:53 - save_section called
+POST data: {"id":"","level_type":"College","course_id":"46","year_level_college":"1","strand_id":"","year_level_shs":"","name":"CET 101","year_level":"1"}
+Duplicate check query: SELECT * FROM sections WHERE name = 'CET 101' AND year_level = '1' AND course_id = '46'
+Duplicate check found 1 rows
+Duplicate found - ID: 45, Name: CET 101, Year: 1, Course ID: 46, Strand ID: NULL
+Error: Section name already exists for this level/department or strand
+2025-05-17 19:47:52 - save_section called
+POST data: {"id":"","level_type":"College","course_id":"46","year_level_college":"2","strand_id":"","year_level_shs":"","name":"CET 201","year_level":"2"}
+Request ID: section_6828cbc82262a
+Duplicate check query: SELECT * FROM sections WHERE name = 'CET 201' AND year_level = '2' AND course_id = '46'
+Duplicate check found 0 rows
+SQL Query: INSERT INTO sections SET `name` = 'CET 201', `year_level` = '2', `course_id` = '46', `strand_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 19:48:03 - save_section called
+POST data: {"id":"45","level_type":"College","course_id":"46","year_level_college":"1","strand_id":"","year_level_shs":"","name":"CET 201","year_level":"1"}
+Request ID: section_6828cbd342e82
+Duplicate check query: SELECT * FROM sections WHERE name = 'CET 201' AND year_level = '1' AND course_id = '46' AND id != '45'
+Duplicate check found 0 rows
+SQL Query: UPDATE sections SET `name` = 'CET 201', `year_level` = '1', `course_id` = '46', `strand_id` = NULL WHERE id = '45'
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-17 19:48:23 - save_section called
+POST data: {"id":"","level_type":"College","course_id":"46","year_level_college":"2","strand_id":"","year_level_shs":"","name":"CET 201","year_level":"2"}
+Request ID: section_6828cbe766a77
+Duplicate check query: SELECT * FROM sections WHERE name = 'CET 201' AND year_level = '2' AND course_id = '46'
+Duplicate check found 1 rows
+Duplicate found - ID: 46, Name: CET 201, Year: 2, Course ID: 46, Strand ID: NULL
+Error: Section name already exists for this level/department or strand
+2025-05-17 19:52:01 - save_section called
+POST data: {"id":"46","level_type":"College","course_id":"46","year_level_college":"1","strand_id":"","year_level_shs":"","name":"CET 201","year_level":"1"}
+Request ID: section_6828ccc182430
+Editing existing section with ID: 46
+Duplicate check query: SELECT * FROM sections WHERE name = 'CET 201' AND year_level = '1' AND course_id = '46' AND id != 46
+Duplicate check found 1 rows
+Duplicate found - ID: 45, Name: CET 201, Year: 1, Course ID: 46, Strand ID: NULL
+Error: Section name already exists for this level/department or strand
+2025-05-17 19:52:18 - save_section called
+POST data: {"id":"43","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"10","year_level_shs":"11","name":"B","year_level":"11"}
+Request ID: section_6828ccd2244c7
+Editing existing section with ID: 43
+Duplicate check query: SELECT * FROM sections WHERE name = 'B' AND year_level = '11' AND strand_id = '10' AND id != 43
+Duplicate check found 1 rows
+Duplicate found - ID: 44, Name: B, Year: 11, Course ID: NULL, Strand ID: 10
+Error: Section name already exists for this level/department or strand
+2025-05-19 09:38:05 - save_section called
+POST data: {"id":"","level_type":"College","course_id":"43","year_level_college":"1","strand_id":"","year_level_shs":"","name":"IT 301","year_level":"1"}
+Request ID: section_682adfddf38d0
+Creating new section (no ID)
+Duplicate check query: SELECT * FROM sections WHERE name = 'IT 301' AND year_level = '1' AND course_id = '43'
+Duplicate check found 0 rows
+SQL Query: INSERT INTO sections SET `name` = 'IT 301', `year_level` = '1', `course_id` = '43', `strand_id` = NULL
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-19 09:38:46 - save_section called
+POST data: {"id":"47","level_type":"College","course_id":"43","year_level_college":"1","strand_id":"","year_level_shs":"","name":"IT 103","year_level":"1"}
+Request ID: section_682ae006bbe82
+Editing existing section with ID: 47
+Duplicate check query: SELECT * FROM sections WHERE name = 'IT 103' AND year_level = '1' AND course_id = '43' AND id != 47
+Duplicate check found 0 rows
+SQL Query: UPDATE sections SET `name` = 'IT 103', `year_level` = '1', `course_id` = '43', `strand_id` = NULL WHERE id = 47
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-19 09:39:39 - save_section called
+POST data: {"id":"","level_type":"College","course_id":"43","year_level_college":"3","strand_id":"","year_level_shs":"","name":"IT 301","year_level":"3"}
+Request ID: section_682ae03bd599f
+Creating new section (no ID)
+Duplicate check query: SELECT * FROM sections WHERE name = 'IT 301' AND year_level = '3' AND course_id = '43'
+Duplicate check found 1 rows
+Duplicate found - ID: 1, Name: IT 301, Year: 3, Course ID: 43, Strand ID: NULL
+Error: Section name already exists for this level/department or strand
+2025-05-19 09:46:03 - save_section called
+POST data: {"id":"","level_type":"SHS","course_id":"","year_level_college":"","strand_id":"10","year_level_shs":"11","name":"A","year_level":"11"}
+Request ID: section_682ae1bb261ee
+Creating new section (no ID)
+Duplicate check query: SELECT * FROM sections WHERE name = 'A' AND year_level = '11' AND strand_id = '10'
+Duplicate check found 1 rows
+Duplicate found - ID: 43, Name: A, Year: 11, Course ID: NULL, Strand ID: 10
+Error: Section name already exists for this level/department or strand
+2025-05-19 17:36:21 - save_section called
+POST data: {"id":"1","level_type":"College","course_id":"43","year_level_college":"3","strand_id":"","year_level_shs":"","name":"IT 301","faculty_id":"4","year_level":"3"}
+Request ID: section_682b4ff588470
+Editing existing section with ID: 1
+Duplicate check query: SELECT * FROM sections WHERE name = 'IT 301' AND year_level = '3' AND course_id = '43' AND id != 1
+Duplicate check found 0 rows
+SQL Query: UPDATE sections SET `name` = 'IT 301', `year_level` = '3', `course_id` = '43', `strand_id` = NULL WHERE id = 1
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-19 17:36:34 - save_section called
+POST data: {"id":"1","level_type":"College","course_id":"43","year_level_college":"3","strand_id":"","year_level_shs":"","name":"IT 301","faculty_id":"4","year_level":"3"}
+Request ID: section_682b50020cd7a
+Editing existing section with ID: 1
+Duplicate check query: SELECT * FROM sections WHERE name = 'IT 301' AND year_level = '3' AND course_id = '43' AND id != 1
+Duplicate check found 0 rows
+SQL Query: UPDATE sections SET `name` = 'IT 301', `year_level` = '3', `course_id` = '43', `strand_id` = NULL WHERE id = 1
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-19 17:44:35 - save_section called
+POST data: {"id":"1","level_type":"College","course_id":"43","year_level_college":"3","strand_id":"","year_level_shs":"","name":"IT 301","faculty_id":"4","year_level":"3"}
+Request ID: section_682b51e32151b
+Editing existing section with ID: 1
+Duplicate check query: SELECT * FROM sections WHERE name = 'IT 301' AND year_level = '3' AND course_id = '43' AND id != 1
+Duplicate check found 0 rows
+SQL Query: UPDATE sections SET `name` = 'IT 301', `year_level` = '3', `course_id` = '43', `strand_id` = NULL WHERE id = 1
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}
+2025-05-19 17:44:53 - save_section called
+POST data: {"id":"1","level_type":"College","course_id":"43","year_level_college":"3","strand_id":"","year_level_shs":"","name":"IT 301","faculty_id":"4","year_level":"3"}
+Request ID: section_682b51f5eaf6d
+Editing existing section with ID: 1
+Duplicate check query: SELECT * FROM sections WHERE name = 'IT 301' AND year_level = '3' AND course_id = '43' AND id != 1
+Duplicate check found 0 rows
+SQL Query: UPDATE sections SET `name` = 'IT 301', `year_level` = '3', `course_id` = '43', `strand_id` = NULL WHERE id = 1
+Success: Section saved
+Response: {"status":1,"msg":"Section saved successfully"}

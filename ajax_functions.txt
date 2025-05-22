@@ -1,0 +1,44 @@
+// Get department subjects
+if($action == 'get_department_subjects'){
+    $department_id = $_POST['department_id'];
+    $subjects = $conn->query("SELECT * FROM subjects WHERE department_id = $department_id ORDER BY subject ASC");
+    $data = array();
+    while($row = $subjects->fetch_assoc()){
+        $data[] = $row;
+    }
+    echo json_encode($data);
+}
+
+// Get strand subjects
+if($action == 'get_strand_subjects'){
+    $strand_id = $_POST['strand_id'];
+    $subjects = $conn->query("SELECT * FROM strand_subjects WHERE strand_id = $strand_id ORDER BY subject ASC");
+    $data = array();
+    while($row = $subjects->fetch_assoc()){
+        $data[] = $row;
+    }
+    echo json_encode($data);
+}
+
+// Get section schedules
+if($action == 'get_section_schedules'){
+    $section_id = $_POST['section_id'] ?? 0;
+    
+    $schedules = $conn->query("SELECT s.*, 
+                              CONCAT(f.firstname, ' ', f.lastname) AS faculty_name, 
+                              sub.subject, 
+                              r.name as room_name 
+                            FROM schedules s
+                            LEFT JOIN faculty f ON s.faculty_id = f.id
+                            LEFT JOIN subjects sub ON s.subject_id = sub.id
+                            LEFT JOIN rooms r ON s.room_id = r.id
+                            WHERE s.section_id = $section_id
+                            ORDER BY s.time_from ASC");
+    
+    $data = array();
+    while($row = $schedules->fetch_assoc()){
+        $data[] = $row;
+    }
+    
+    echo json_encode($data);
+} 

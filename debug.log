@@ -1,0 +1,827 @@
+Array
+(
+    [id] => 
+    [subject_id] => 7
+    [course_id] => 16
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 2
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [schedule_date] => 2025-05-03
+    [time_from] => 09:18
+    [time_to] => 10:18
+)
+Array
+(
+    [id] => 
+    [subject_id] => 7
+    [course_id] => 16
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 2
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [schedule_date] => 2025-05-03
+    [time_from] => 08:00
+    [time_to] => 09:30
+)
+Array
+(
+    [id] => 
+    [subject_id] => 7
+    [course_id] => 9
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 1
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 3
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00
+    [time_to] => 11:00
+)
+Array
+(
+    [id] => 
+    [subject_id] => 7
+    [course_id] => 
+    [faculty_id] => 0
+    [strand_id] => 2
+    [section_id] => 2
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00
+    [time_to] => 10:00
+)
+Array
+(
+    [id] => 
+    [subject_id] => 1
+    [course_id] => 
+    [faculty_id] => 4
+    [strand_id] => 2
+    [section_id] => 2
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 17:17
+    [time_to] => 18:17
+)
+Array
+(
+    [id] => 
+    [subject_id] => 7
+    [course_id] => 
+    [faculty_id] => 0
+    [strand_id] => 2
+    [section_id] => 1
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-08
+    [time_from] => 05:23
+    [time_to] => 06:21
+)
+Array
+(
+    [id] => 18
+    [subject_id] => 7
+    [course_id] => 
+    [faculty_id] => 8
+    [strand_id] => 2
+    [section_id] => 2
+    [room_id] => 1
+    [is_repeating] => 1
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00:00
+    [time_to] => 10:00:00
+)
+Array
+(
+    [id] => 20
+    [subject_id] => 7
+    [course_id] => 
+    [faculty_id] => 8
+    [strand_id] => 2
+    [section_id] => 1
+    [room_id] => 1
+    [is_repeating] => 1
+    [month_from] => 2025-01
+    [month_to] => 2025-08
+    [time_from] => 05:23:00
+    [time_to] => 06:21:00
+)
+Array
+(
+    [id] => 17
+    [subject_id] => 7
+    [course_id] => 9
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 1
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00:00
+    [time_to] => 11:00:00
+)
+Array
+(
+    [id] => 17
+    [subject_id] => 7
+    [course_id] => 9
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 1
+    [room_id] => 2
+    [is_repeating] => 1
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00:00
+    [time_to] => 11:00:00
+)
+Array
+(
+    [id] => 17
+    [subject_id] => 7
+    [course_id] => 9
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 1
+    [room_id] => 1
+    [is_repeating] => 1
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00:00
+    [time_to] => 11:00:00
+)
+Array
+(
+    [id] => 19
+    [subject_id] => 1
+    [course_id] => 
+    [faculty_id] => 4
+    [strand_id] => 2
+    [section_id] => 2
+    [room_id] => 2
+    [is_repeating] => 1
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 17:17:00
+    [time_to] => 18:17:00
+)
+Array
+(
+    [id] => 17
+    [subject_id] => 7
+    [course_id] => 9
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 1
+    [room_id] => 1
+    [is_repeating] => 1
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00:00
+    [time_to] => 00:00
+)
+Array
+(
+    [id] => 17
+    [subject_id] => 7
+    [course_id] => 9
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 1
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00:00
+    [time_to] => 00:00:00
+)
+Array
+(
+    [id] => 17
+    [subject_id] => 7
+    [course_id] => 9
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 1
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00:00
+    [time_to] => 00:00:00
+)
+Array
+(
+    [id] => 17
+    [subject_id] => 7
+    [course_id] => 9
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 2
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00:00
+    [time_to] => 00:00:00
+)
+Array
+(
+    [id] => 17
+    [subject_id] => 7
+    [course_id] => 9
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 1
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00:00
+    [time_to] => 00:00:00
+)
+Array
+(
+    [id] => 17
+    [subject_id] => 7
+    [course_id] => 9
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 1
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 2
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00:00
+    [time_to] => 00:00:00
+)
+Array
+(
+    [id] => 17
+    [subject_id] => 7
+    [course_id] => 9
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 1
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 3
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00:00
+    [time_to] => 00:00:00
+    [schedule_date] => 
+)
+Array
+(
+    [id] => 18
+    [subject_id] => 7
+    [course_id] => 
+    [faculty_id] => 8
+    [strand_id] => 2
+    [section_id] => 2
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00:00
+    [time_to] => 10:00:00
+    [schedule_date] => 
+)
+Array
+(
+    [id] => 
+    [subject_id] => 7
+    [course_id] => 11
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 3
+    [room_id] => 2
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 3
+            [1] => 4
+            [2] => 5
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:35
+    [time_to] => 09:35
+)
+Array
+(
+    [id] => 
+    [subject_id] => 7
+    [course_id] => 9
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 2
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-05
+    [time_from] => 06:36
+    [time_to] => 05:41
+)
+Array
+(
+    [id] => 
+    [subject_id] => 7
+    [course_id] => 11
+    [faculty_id] => 4
+    [strand_id] => 
+    [section_id] => 2
+    [room_id] => 2
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 3
+            [3] => 4
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-06
+    [time_from] => 05:47
+    [time_to] => 06:47
+)
+Array
+(
+    [id] => 
+    [subject_id] => 7
+    [course_id] => 11
+    [faculty_id] => 11
+    [strand_id] => 
+    [section_id] => 2
+    [room_id] => 2
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 0
+            [1] => 1
+        )
+
+    [month_from] => 2025-05
+    [month_to] => 2025-06
+    [time_from] => 08:00
+    [time_to] => 09:00
+)
+Array
+(
+    [id] => 
+    [subject_id] => 7
+    [course_id] => 11
+    [faculty_id] => 11
+    [strand_id] => 
+    [section_id] => 2
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00
+    [time_to] => 11:00
+)
+Array
+(
+    [id] => 
+    [subject_id] => 7
+    [course_id] => 11
+    [faculty_id] => 0
+    [strand_id] => 
+    [section_id] => 2
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00
+    [time_to] => 09:23
+)
+Array
+(
+    [id] => 24
+    [subject_id] => 7
+    [course_id] => 11
+    [faculty_id] => 11
+    [strand_id] => 
+    [section_id] => 2
+    [room_id] => 1
+    [is_repeating] => 1
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00:00
+    [time_to] => 09:23:00
+)
+Array
+(
+    [id] => 
+    [subject_id] => 1
+    [course_id] => 9
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 3
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:31
+    [time_to] => 09:31
+)
+Array
+(
+    [id] => 24
+    [subject_id] => 7
+    [course_id] => 11
+    [faculty_id] => 11
+    [strand_id] => 
+    [section_id] => 2
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 3
+            [1] => 5
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00:00
+    [time_to] => 09:23:00
+)
+Array
+(
+    [id] => 24
+    [subject_id] => 7
+    [course_id] => 11
+    [faculty_id] => 11
+    [strand_id] => 
+    [section_id] => 2
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 0
+            [1] => 2
+            [2] => 3
+            [3] => 4
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00:00
+    [time_to] => 09:23:00
+)
+Array
+(
+    [id] => 25
+    [subject_id] => 1
+    [course_id] => 9
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 3
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 0
+            [1] => 1
+            [2] => 2
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:31:00
+    [time_to] => 09:31:00
+)
+Array
+(
+    [id] => 
+    [subject_id] => 1
+    [course_id] => 
+    [faculty_id] => 11
+    [strand_id] => 2
+    [section_id] => 2
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+            [1] => 3
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 07:50
+    [time_to] => 09:47
+)
+Array
+(
+    [id] => 
+    [subject_id] => 7
+    [course_id] => 
+    [faculty_id] => 4
+    [strand_id] => 1
+    [section_id] => 3
+    [room_id] => 2
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:51
+    [time_to] => 09:51
+)
+Array
+(
+    [id] => 
+    [subject_id] => 1
+    [course_id] => 42
+    [faculty_id] => 4
+    [strand_id] => 
+    [section_id] => 3
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00
+    [time_to] => 09:52
+)
+Array
+(
+    [id] => 
+    [subject_id] => 1
+    [course_id] => 11
+    [faculty_id] => 11
+    [strand_id] => 
+    [section_id] => 3
+    [room_id] => 2
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+            [1] => 2
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 09:09
+    [time_to] => 11:11
+)
+Array
+(
+    [id] => 
+    [subject_id] => 1
+    [course_id] => 42
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 3
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 09:54
+    [time_to] => 10:54
+)
+Array
+(
+    [id] => 24
+    [subject_id] => 7
+    [course_id] => 11
+    [faculty_id] => 11
+    [strand_id] => 
+    [section_id] => 1
+    [room_id] => 1
+    [is_repeating] => 1
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00:00
+    [time_to] => 09:23:00
+)
+Array
+(
+    [id] => 
+    [subject_id] => 1
+    [course_id] => 11
+    [faculty_id] => 11
+    [strand_id] => 
+    [section_id] => 2
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+        )
+
+    [month_from] => 2025-05
+    [month_to] => 2025-06
+    [time_from] => 10:42
+    [time_to] => 16:47
+)
+Array
+(
+    [id] => 
+    [subject_id] => 28
+    [course_id] => 9
+    [faculty_id] => 12
+    [strand_id] => 
+    [section_id] => 1
+    [room_id] => 1
+    [is_repeating] => 1
+    [dow] => Array
+        (
+            [0] => 1
+        )
+
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:00
+    [time_to] => 09:31
+)
+Array
+(
+    [id] => 25
+    [subject_id] => 1
+    [course_id] => 46
+    [faculty_id] => 7
+    [strand_id] => 
+    [section_id] => 3
+    [room_id] => 1
+    [is_repeating] => 1
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 08:31:00
+    [time_to] => 09:31:00
+)
+Array
+(
+    [id] => 26
+    [subject_id] => 1
+    [course_id] => 
+    [faculty_id] => 11
+    [strand_id] => 10
+    [section_id] => 2
+    [room_id] => 1
+    [is_repeating] => 1
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 07:50:00
+    [time_to] => 09:47:00
+)
+Array
+(
+    [id] => 26
+    [subject_id] => 1
+    [course_id] => 44
+    [faculty_id] => 11
+    [strand_id] => 
+    [section_id] => 2
+    [room_id] => 1
+    [is_repeating] => 1
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 07:50:00
+    [time_to] => 09:47:00
+)
+Array
+(
+    [id] => 26
+    [subject_id] => 1
+    [course_id] => 
+    [faculty_id] => 11
+    [strand_id] => 10
+    [section_id] => 5
+    [room_id] => 1
+    [is_repeating] => 1
+    [month_from] => 2025-01
+    [month_to] => 2025-07
+    [time_from] => 07:50:00
+    [time_to] => 09:47:00
+)
